@@ -5,5 +5,3 @@
 <li> App = "YOUR APP ID" </li>
 <li> Key = "APP KEY" </li>
 <h3> Only You Can Genrate Login URL </h3>
-<span> More Coming Soon </span>
-</h4> Thanks - Meow </h4>
