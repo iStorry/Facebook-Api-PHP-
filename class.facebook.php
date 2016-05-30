@@ -19,7 +19,6 @@
  *
  * @section DESCRIPTION
  *
- * A basic Weheartit Api wrapper
  */
   class Facebook {
   	
