@@ -1,5 +1,5 @@
-# Facebook-Api-PHP-
-* This Is Unofficial Facebook Api *
+# Minimal Facebook Class
+
 <center><h2> Facebook PHP Api </h2>
 <span> My First Facebook Class </span>
 <li> App = "YOUR APP ID" </li>
